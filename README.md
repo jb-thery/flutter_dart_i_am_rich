@@ -1,4 +1,4 @@
-## 💎 I am rich 
+### 💎 I am rich 
 
 A simple Flutter Dart IOS and Android application just for training purposes.
 
