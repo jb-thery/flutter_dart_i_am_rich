@@ -1,4 +1,4 @@
-### 💎 I am rich 
+### 💎 Project I am rich App
 
 A simple Flutter Dart IOS and Android application just for training purposes.
 
