@@ -1,7 +1,13 @@
 ## 💎 Project I am rich App
 
-A simple Flutter Dart IOS and Android application just for training purposes.
+A simple Flutter Dart application just for training purposes.
 
+## 💻 Platforms
+
+- **IOS** 
+- **Android** 
+- **Web** 
+- **Windows** 
 ## 🛠️ Stack
 
 - **Dart:** Dart is a client-optimized language for fast apps on any platform.
